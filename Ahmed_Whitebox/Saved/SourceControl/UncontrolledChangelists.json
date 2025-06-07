@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/KA_Whitebox_1.umap",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Extrude_BB9061D9.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Path_8EC70890.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_EE6C3317.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_0_EFD7C976.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_1_F172D1DB.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Materials/M_Lava.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Materials/M_Water.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_0B279367.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_165CDE5D.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Box_D85E1FFA.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Cone_17F207EA.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/CubeGridToolOutput_09FEDE7B.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/CubeGridToolOutput_DBC0B888.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Cylinder_1BC3BE71.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Cylinder_644F6D2D.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Cylinder_85267F70.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Extrude_975F3698.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Extrude_F178FA05.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Levels/Whitebox/_GENERATED/ikraa/Torus_8F3AD968.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_curve.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_Emissive.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_mat.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_Model.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_Normal_DirectX.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_Normal_GL.uasset",
+				"C:/Unreal Projects/Ahmed_Whitebox/Content/Fab/Diamond_Lowpoly/Diamond_Roughness.uasset"
+			]
+		}
+	]
+}
